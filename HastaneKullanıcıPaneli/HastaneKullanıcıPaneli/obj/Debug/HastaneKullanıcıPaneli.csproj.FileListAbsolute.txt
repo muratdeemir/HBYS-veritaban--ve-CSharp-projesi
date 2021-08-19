@@ -1,0 +1,49 @@
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe.config
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.pdb
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csprojResolveAssemblyReference.cache
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.Properties.Resources.resources
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csproj.GenerateResource.Cache
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.exe
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.pdb
+c:\users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciGirisi.resources
+C:\Users\mevli\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.HastaKayit.resources
+C:\Users\mevli\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciKayit.resources
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe.config
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.exe
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.pdb
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.pdb
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csprojResolveAssemblyReference.cache
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.HastaKayit.resources
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciGirisi.resources
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciKayit.resources
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.Properties.Resources.resources
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csproj.GenerateResource.Cache
+C:\Users\mevli\documents\visual studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.DoktorListesi.resources
+C:\Users\Musa Turap\Documents\Visual Studio 2015\Projects\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.DoktorListesi.resources
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe.config
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.pdb
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csprojAssemblyReference.cache
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.DoktorListesi.resources
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.HastaKayit.resources
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciGirisi.resources
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciKayit.resources
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.Properties.Resources.resources
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csproj.GenerateResource.cache
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.exe
+C:\Users\MURAT\Desktop\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.pdb
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe.config
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.exe
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\bin\Debug\HastaneKullanıcıPaneli.pdb
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csprojAssemblyReference.cache
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.DoktorListesi.resources
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.HastaKayit.resources
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciGirisi.resources
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.KullaniciKayit.resources
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.Properties.Resources.resources
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.csproj.GenerateResource.cache
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.exe
+D:\Yedek\Ders Notları\vtys\Hastaneveritabanı\HastaneKullanıcıPaneli\HastaneKullanıcıPaneli\obj\Debug\HastaneKullanıcıPaneli.pdb
